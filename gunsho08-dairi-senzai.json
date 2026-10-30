@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/koho-dairi-senzai-awase",
  "yomi": "こうほうさんねんだいりせんざいあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（前栽合）",
+  "era": "康保3年（966）閏8月15日",
+  "author": "主催 村上天皇",
+  "desc": "村上天皇が、二つの壺に左は絵所、右は作物所が前栽を作って競わせた催し。御製をはじめ藤原師尹・源博雅・藤原兼家や女房・蔵人らが、月と秋の花を詠んだ歌を並べる。"
+ },
  "editions": [
   {
    "pid": "1879502",
